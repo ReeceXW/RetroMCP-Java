@@ -16,3 +16,12 @@ test/*
 .vscode
 .settings
 bin
+
+# Ignore anything generated
+minecraft/
+minecraft_server/
+jars/
+conf/
+libraries/
+patches/
+options.cfg
